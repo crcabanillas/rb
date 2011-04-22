@@ -1,0 +1,103 @@
+[Fri Apr 22 17:10:05 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:12:50 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:12:50 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:14:28 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:14:34 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:14:34 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:14:35 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:14:35 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:14:36 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 17:14:36 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:36 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:21:39 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 17:22:28 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:11:37 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:11:38 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/Sites/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:14:56 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/
+[Fri Apr 22 18:14:57 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:28 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:28 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:29 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:29 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:29 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:30 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:31 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:33 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:33 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:33 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:33 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:45 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:45 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:17:46 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:17:46 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:13 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:13 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:14 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:14 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:15 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:16 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:22 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:22 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:26:22 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:26:22 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:27:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb
+[Fri Apr 22 18:27:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb, referer: http://restiffbard/
+[Fri Apr 22 18:27:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb
+[Fri Apr 22 18:27:21 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb, referer: http://restiffbard/
+[Fri Apr 22 18:27:29 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb
+[Fri Apr 22 18:27:29 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb, referer: http://restiffbard/
+[Fri Apr 22 18:27:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb
+[Fri Apr 22 18:27:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb, referer: http://restiffbard/
+[Fri Apr 22 18:27:32 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb
+[Fri Apr 22 18:27:33 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/Documents/rb, referer: http://restiffbard/
+[Fri Apr 22 18:30:23 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:23 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:24 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:30:25 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:25 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:30:25 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/
+[Fri Apr 22 18:30:25 2011] [error] [client 127.0.0.1] client denied by server configuration: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/
+[Fri Apr 22 18:38:29 2011] [error] [client 127.0.0.1] File does not exist: /Users/chris/src/rb/_site/favicon.ico, referer: http://restiffbard/

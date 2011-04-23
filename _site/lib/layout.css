@@ -1,0 +1,17 @@
+body {
+	margin: 1em;
+}
+#wrap {
+
+}
+#left {
+	width: 40em;
+	float:left;
+}
+#right {
+	margin-left: 41em;
+	width: 15em;
+}
+#foot {
+	clear:both;
+}

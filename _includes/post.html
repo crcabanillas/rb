@@ -1,25 +1,33 @@
-<div class="entry">
-	<h2>
-		{% if detail %}
-			{{ post.title }}
-		{% else %}
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		{% endif %}
-	</h2>
+<article>
+  <header>
+    <hgroup>
+      <h1>
+        {% if detail %}
+          {{ post.title }}
+        {% else %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
+      </h1>
+      <h2>
+        {% if detail %}
+          {{ post.subtitle }}
+        {% else %}
+          {{ post.subtitle }}
+        {% endif %}
+      </h2>
+    </hgroup>
+    <time datetime="{{ post.date | date:'%Y-%m-%d' }}" pubdate>{{ post.date | date:'%b %d %Y' | replace:'>0','>' }}</time>
+  </header>
 	
-	<div class="entry-date">{{ post.date | date:'%b %d %Y' | replace:'>0','>' }}</div>
-	
-	<div class="entry-contents">
+	<div class="entry">
 		{% if detail %}
 			{{ content }}
 		{% else %}
 			{{ post.content }}
 		{% endif %}
-	</div>
+  </div>
+  <footer>
+    <p>{{ site.footer.art }}</p>
+  </footer>
 	
-	<div class="entry-footer">
-		<p>
-			Posted by {{ site.author.name }} on {{ post.date | date:'%A, %B %d, %Y' | replace:' 0',' ' }}
-		</p>
-	</div>
-</div>
+</article>

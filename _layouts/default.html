@@ -1,49 +1,43 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-		
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="generator" content="Jekyll" />
-		<meta name="author" content="{{ site.author.name }}" />
-		<meta name="description" content="{{ site.description }}" />
+<html lang="en">
+<head>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  
+  <meta charset="utf-8" />
+  <meta name="generator" content="Jekyll" />
+  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="shortcut icon" href="/favicon.ico">
 
-		<link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
-		
-		{% for css in site.css %}
-			<link rel="stylesheet" href="{{ css }}" type="text/css" />
-		{% endfor %}
-		
-		{% for css in page.css %}
-			<link rel="stylesheet" href="{{ css }}" type="text/css" />
-		{% endfor %}
-	</head>
-	<body>
-		<div id="head">
-			<h1>
-				<a href="/">{{ site.title }}</a>
-			</h1>			
-			<!-- {% include nav.html %} -->
-		</div>
-		
-		<div id="wrap">
-			<div id="left">
-				{{ content }}
-			</div>
-			
-			<div id="right">
-				{% if page.sidebar != false %}
-					{% include sidebar.html %}
-				{% endif %}
-			</div>
-		</div> <!-- End Wrap -->
-		
-		<div id="foot">
-			<div id="copyright">
-				{% for line in site.copyright %}
-					<small><p>{{ line }}</p></small>
-				{% endfor %}
-			</div>
-		</div>
-	</body>
+  <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
+  
+  {% for css in site.css %}
+    <link rel="stylesheet" href="{{ css }}" />
+  {% endfor %}
+  
+</head>
+<body>
+  <header>
+    <hgroup>
+      <h1>
+        <a href="/">{{ site.title }}</a>
+      </h1>
+    </hgroup>
+  </header>
+  
+  <div id="left">
+    {{ content }}
+  </div>
+
+  <div id="right">
+    {% if page.sidebar != false %}
+      {% include sidebar.html %}
+    {% endif %}
+  </div>
+
+    <footer>
+        <p><small>{{ site.footer.copyright }}</small></p>
+    </footer>
+    
+  </body>
 </html>

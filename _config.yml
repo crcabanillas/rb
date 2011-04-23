@@ -17,9 +17,10 @@ author:
 nav:
     - name:     Blog
       url:      /
-copyright:
-    -
-    - "&copy; 2011 Christopher Cabanillas"
+
+footer:
+    copyright:  "&copy; 2011 Christopher Cabanillas"
+    art:        "art"
 
 css:
   - /lib/text.css

@@ -20,7 +20,6 @@ nav:
 
 footer:
     copyright:  "&copy; 2011 Christopher Cabanillas"
-    art:        "art"
 
 css:
   - /lib/text.css

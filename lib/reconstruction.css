@@ -13,12 +13,36 @@ hgroup h2 {
   text-transform: lowercase;
 }
 time {
-  border-top:0.1em solid #E6E6E6;
+  border-top:0.1em solid rgb(230,230,230);
   width:auto;
   display: block;
   text-align:right;
   font-size: 0.8em;
 }
 article footer {
+  border: none;
   text-align:center;
+}
+footer {
+  border-top: 0.3em solid rgb(230,230,230);
+  text-align: right;
+  clear:both;
+}
+footer p {
+  margin:0;
+}
+
+/* Colors */
+h2 {
+  color: rgb(127,127,127);
+}
+p {
+  color:rgb(63,63,63);
+}
+/* rulers */
+hr {
+  border-width: 0.1em;
+  border-style: solid;
+  margin: 0;
+  color: rgb(230,230,230);
 }

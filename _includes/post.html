@@ -16,7 +16,7 @@
         {% endif %}
       </h2>
     </hgroup>
-    <time datetime="{{ post.date | date:'%Y-%m-%d' }}" pubdate>{{ post.date | date:'%b %d %Y' | replace:'>0','>' }}</time>
+    <time datetime="{{ post.date | date:'%Y-%m-%d' }}" pubdate>{{ post.date | date:'%B %e, %Y' }}</time>
   </header>
 	
 	<div class="entry">
@@ -27,7 +27,7 @@
 		{% endif %}
   </div>
   <footer>
-    <p>{{ site.footer.art }}</p>
+    <img src="/lib/images/logo-32-a.png" style="background:none" alt="decoration" />
   </footer>
 	
 </article>

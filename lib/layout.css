@@ -1,5 +1,6 @@
 body {
-	margin: 1em;
+	margin: 2em;
+  background-color: rgb(250,251,246);
 }
 #left {
 	width: 40em;
@@ -9,4 +10,5 @@ body {
 #right {
 	margin-left: 41em;
 	width: 15em;
+  padding-left:2em;
 }

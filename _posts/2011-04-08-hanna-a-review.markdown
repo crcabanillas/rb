@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Hanna
-subtitle: A beautiful film whose plot you will not care about 
+subtitle: A beautiful film whose plot you will not care about
+category: critique
 ---
 
 [Saoirse Ronan][] is _[Hanna][]_. Not knowing if there was ever another contender for the role you can't imagine anyone else playing this character. Raised in the forest to be something of a killing machine she is set to avenge her mother's murder.
@@ -28,9 +29,10 @@ Lastly, I have to say a word for the foley artist. The ambient sound in this fil
 
 I enjoyed the film. I think that if you're interested in seeing a pretty girl eviscerate a grown man then you will as well. Just don't go expecting to see blood and guts at every turn. This isn't that film.
 
-Hanna, April 2011
-Starring: [Saoirse Ronan][], [Cate Blanchett][], [Eric Bana][]
-Director: [Joe Wright][]
+- - -
+Hanna, April 2011  
+Starring: [Saoirse Ronan][], [Cate Blanchett][], [Eric Bana][]  
+Director: [Joe Wright][]  
 
 [Saoirse Ronan]: http://www.imdb.com/name/nm1519680/ "IMDB profile"
 [Cate Blanchett]: http://www.imdb.com/name/nm0000949/ "IMDB profile"

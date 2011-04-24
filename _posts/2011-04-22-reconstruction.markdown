@@ -2,6 +2,7 @@
 layout: post
 title: Reconstruction
 subtitle: with regards to rebuilding the site
+category: works
 ---
 
 I know it's been some time since I was active at this... url. That's changing but part of that change is a complete rebuild of the site. This has more to do with the backend than it does with the front.

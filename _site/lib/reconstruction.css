@@ -1,0 +1,24 @@
+/* Reconstruction
+ * a rebuilding of restiffbard.com
+ * copyright 2011, Christopher Cabanillas
+ */
+
+article header {
+  margin-bottom: 0;
+}
+hgroup h1,h2 {
+  margin: 0em;
+}
+hgroup h2 {
+  text-transform: lowercase;
+}
+time {
+  border-top:0.1em solid #E6E6E6;
+  width:auto;
+  display: block;
+  text-align:right;
+  font-size: 0.8em;
+}
+article footer {
+  text-align:center;
+}

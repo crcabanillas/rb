@@ -1,17 +1,12 @@
 body {
 	margin: 1em;
 }
-#wrap {
-
-}
 #left {
 	width: 40em;
 	float:left;
+  margin-bottom: 3em;
 }
 #right {
 	margin-left: 41em;
 	width: 15em;
-}
-#foot {
-	clear:both;
 }

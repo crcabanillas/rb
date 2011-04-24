@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
 	<title>Restiffbard</title>
-	<subtitle>the digital diatribes of Christopher Cabanillas</subtitle>
+	<subtitle>by Christopher Cabanillas</subtitle>
 	<link href="atom.xml" rel="self" type="application/atom+xml" />
 	<link href="" rel="alternate" type="text/html" />
 	<id></id>
-	<updated>2011-04-23T11:31:48-04:00</updated>
+	<updated>2011-04-24T15:51:12-04:00</updated>
 	<author>
 		<name>C.R. Cabanillas</name>
 	</author>
@@ -25,7 +25,7 @@
 		</entry>
 	
 		<entry>
-			<title>Hanna, a review</title>
+			<title>Hanna</title>
 			<link href="/hanna-a-review/" rel="alternate" type="text/html" />
 			<updated>2011-04-08T00:00:00-04:00</updated>
 			<id>/hanna-a-review</id>

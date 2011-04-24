@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hanna, a review
+title: Hanna
+subtitle: A beautiful film whose plot you will not care about 
 ---
 
 [Saoirse Ronan][] is _[Hanna][]_. Not knowing if there was ever another contender for the role you can't imagine anyone else playing this character. Raised in the forest to be something of a killing machine she is set to avenge her mother's murder.

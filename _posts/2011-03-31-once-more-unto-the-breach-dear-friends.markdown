@@ -1,6 +1,7 @@
 ---
 layout:post
 title: once more unto the breach, dear friends
+subtitle: on a return to form
 ---
 
 It's been quite a while since I was active on the web. There have been tweets but it hasn't been the same. On a number of occasions I wanted to say something but didn't simply because 140 characters just wasn't enough. I kept mum. Frankly, it doesn't matter if you missed my additions to the cacophony.

@@ -7,7 +7,7 @@ exclude:
 
 title:          Restiffbard
 feed:           atom.xml
-description:    "the digital diatribes of Christopher Cabanillas"
+description:    "by Christopher Cabanillas"
 
 
 author:
@@ -25,3 +25,4 @@ footer:
 css:
   - /lib/text.css
   - /lib/layout.css
+  - /lib/reconstruction.css

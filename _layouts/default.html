@@ -17,27 +17,28 @@
   
 </head>
 <body>
-  <header>
-    <hgroup>
-      <h1>
-        <a href="/">{{ site.title }}</a>
-      </h1>
-    </hgroup>
-  </header>
-  
+ 
   <div id="left">
     {{ content }}
   </div>
 
-  <div id="right">
+  <div id="right">  
+    <header>
+      <hgroup>
+        <h1>
+          <a href="/">{{ site.title }}</a>
+        </h1>
+      </hgroup>
+    </header>
     {% if page.sidebar != false %}
       {% include sidebar.html %}
     {% endif %}
+    <footer>
+        <p>{{ site.footer.copyright }}</p>
+    </footer>
+   
   </div>
 
-    <footer>
-        <p><small>{{ site.footer.copyright }}</small></p>
-    </footer>
-    
+   
   </body>
 </html>

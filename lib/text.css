@@ -141,6 +141,9 @@ i {
 .entry div.clear + p {
 	text-indent: 0;
 }
+.entry h2 {
+  margin-left: -0.9em;
+}
 .entry h2:before {
 	content: "\00A7";
 	padding-right: .25em;

@@ -30,13 +30,12 @@
           <h2>{{ site.description }}</h2>
         </hgroup>
       </header>
-      {% if page.sidebar != false %}
-        {% include sidebar.html %}
-      {% endif %}
     </div>
 
     <footer>
-      <p>{{ site.footer.copyright }}</p>
+      <p class="archives"><a href="/archives/">archives</a></p>
+      <p class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}" title="on twitter">140</a></p>
+      <p class="copyright">{{ site.footer.copyright }}</p>
     </footer>
   </body>
 </html>

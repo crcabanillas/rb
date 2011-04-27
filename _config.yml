@@ -4,6 +4,7 @@ paginate:       5
 exclude:
   -README.markdown
   -log/
+  -notes.markdown
 
 title:          Restiffbard
 feed:           atom.xml
@@ -13,6 +14,7 @@ description:    "by Christopher Cabanillas"
 author:
   name:         C.R. Cabanillas
   email:        restiffbard@gmail.com
+  twitter:      restiffbard
 
 nav:
     - name:     Blog

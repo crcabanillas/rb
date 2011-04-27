@@ -1,10 +1,11 @@
-{% if page.title %}
-	<div class="widget">
-		<h3>Recent Entries</h3>
-		<ul>
-			{% for post in site.posts limit:5 %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-			{% endfor %}
-		</ul>
-	</div>
-{% endif %}
+<div id="recent">
+  <h2>Recently</h2>
+<ul>
+  {% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a><br />
+    {{ post.subtitle }}
+  </li>
+  {% endfor %}
+</ul>
+</div>

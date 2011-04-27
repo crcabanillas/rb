@@ -7,7 +7,7 @@ exclude:
   -notes.markdown
 
 title:          Restiffbard
-feed:           atom.xml
+feed:           /atom.xml
 description:    "by Christopher Cabanillas"
 
 

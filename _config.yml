@@ -8,11 +8,12 @@ exclude:
 
 title:          Restiffbard
 feed:           /atom.xml
-description:    "by Christopher Cabanillas"
+description:    "essays and commentary by christopher cabanillas"
+topics:         "design, typography, film, web, apple, futurism"    
 
 
 author:
-  name:         C.R. Cabanillas
+  name:         Christopher Cabanillas
   email:        restiffbard@gmail.com
   twitter:      restiffbard
 

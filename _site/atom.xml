@@ -6,11 +6,107 @@
 	<link href="/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="" rel="alternate" type="text/html" />
 	<id></id>
-	<updated>2011-04-28T19:30:34-04:00</updated>
+	<updated>2011-07-22T03:05:58-04:00</updated>
 	<author>
 		<name>Christopher Cabanillas</name>
 	</author>
 
+	
+		<entry>
+			<title>Lion and a Little Crow</title>
+			<link href="/lion_and_a_little_crow/" rel="alternate" type="text/html" />
+			<updated>2011-07-21T00:00:00-04:00</updated>
+			<id>/lion_and_a_little_crow</id>
+			<content type="html">&lt;p&gt;I don&amp;#8217;t expect that it&amp;#8217;s a stunning revelation to any person reading this that Apple&amp;#8217;s Lion operating system launched the other day. It should also be no surprise that I&amp;#8217;m something of an Apple fan (loathe though I am to use that word). I don&amp;#8217;t know what power Apple has over me. I&amp;#8217;m unfamiliar with their Voodoo machinations. I simply accept that the Apple way is very much inline with the Chris way.&lt;/p&gt;
+
+&lt;p&gt;Updating to Lion tested that allegiance. This will be that story.&lt;/p&gt;
+
+&lt;p&gt;First, I&amp;#8217;ll make clear that my issues were entirely of my own making. I know better than to do the things I did. That doesn&amp;#8217;t alleviate some of the guilt that Lion&amp;#8217;s installer should have.&lt;/p&gt;
+
+&lt;p&gt;On a normal working day I crawl out of bed around ten or eleven in the morning. On the day of Lion&amp;#8217;s launch, despite having gone to sleep around two in the morning, I woke at 8AM. By 8:29AM Heilemann had tweeted a direct link to Lion in the Mac App Store. I will not deny a certain cheer may have escaped my lips. I was downloading Lion in a moment.&lt;/p&gt;
+
+&lt;h2 id='regarding_the_pipe'&gt;regarding the pipe&lt;/h2&gt;
+
+&lt;p&gt;There have been some mentions of the cost of upgrading to Lion via the Mac App Store. I&amp;#8217;m speaking of something other than the $29.99 sticker price. In this instance I&amp;#8217;m referring to the bandwidth and time spent downloading. For some on metered bandwidth plans four gigabytes is pushing it. You have my condolences. Those more concerned with the time it would take to download 4 gigs need to get a grip. I&amp;#8217;m not on some fat pipe here. I&amp;#8217;m using the basic cable internet plan available to me. At times I get 5 Mbps down. On occasion there&amp;#8217;s a spike to 8 Mbps. I&amp;#8217;m not breaking any speed barriers here. Lion took 44 minutes to download. It took me longer to read John Siracusa&amp;#8217;s review.&lt;/p&gt;
+
+&lt;p&gt;The time it took to download Lion will come up again soon.&lt;/p&gt;
+
+&lt;h2 id='too_eager_for_my_own_good'&gt;too eager for my own good&lt;/h2&gt;
+
+&lt;p&gt;A lot of people have installation rituals. Some of them involved waving the corpse of a dead chicken. Some throw bones and divine the results. Others do things like backup their data. Then, there&amp;#8217;s me. Me? I just click, click, continue, agree, agree, click, continue.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;#8217;t be me. Try the dead chicken waving if anything but don&amp;#8217;t be me.&lt;/p&gt;
+
+&lt;p&gt;The Lion installer spent about three minutes getting itself ready before announcing it was ready to reboot. Upon rebooting it announced it would be about 33 minutes before the new OS was installed.&lt;/p&gt;
+
+&lt;h2 id='thirtytwo_minutes_to_go'&gt;thirty-two minutes to go&lt;/h2&gt;
+
+&lt;p&gt;A minute later I was looking at a yellow triangle. Fancy. Along with the yellow triangle (I almost wrote &amp;#8220;concomitant&amp;#8221; there but thought better of it) was a bit of dialogue explaining there was an issue with my hard disk and that it could not be repaired.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#8217;t start to sweat for roughly three seconds.&lt;/p&gt;
+
+&lt;p&gt;Once you&amp;#8217;ve begun the Lion installation your Snow Leopard install might as well never existed for all the access you have to it. You can&amp;#8217;t just reboot to your old system. Your disk no longer appears in the system chooser at boot time.&lt;/p&gt;
+
+&lt;h2 id='fix'&gt;fix&lt;/h2&gt;
+
+&lt;p&gt;OK, I should have done this beforehand. For that matter, the Lion installer should have done this earlier as well. I&amp;#8217;m speaking of Disk Utility. At this point, the only way to run Disk Utility on my funky hard disk was to use my old Snow Leopard install disc. Did I forget to mention that I hadn&amp;#8217;t made a bootable install disc of Lion? Oh, yeah, you should probably do that.&lt;/p&gt;
+
+&lt;p&gt;No problem, just restart the Mac and do some keyboard kung-fu to boot to the optical drive. Yeah&amp;#8230; My kung-fu is weak. The drive wouldn&amp;#8217;t open. I&amp;#8217;ve also failed to mention that particular optical drive has been flaky for years. Who the hell uses an optical drive anymore anyway?&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s fine, I managed. The trick was, embarrassingly for everyone involved, booting to my Windows install and opening the optical drive there. Yeah. Revel in this revelation. I had to use Windows to get Lion installed. Embarrassing for me because, really, it just is. Embarrassing for Apple cause their shit didn&amp;#8217;t work perfectly out of the gate. Embarrassing for Microsoft in that I used their OS as a way to open a drive tray.&lt;/p&gt;
+
+&lt;h2 id='what_data_where'&gt;what data? where?&lt;/h2&gt;
+
+&lt;p&gt;I didn&amp;#8217;t even think on it when Disk Utility reported something about misbehaved nodes. Perhaps, &amp;#8220;misbehaved&amp;#8221; isn&amp;#8217;t the word it used but I&amp;#8217;m pretty sure &amp;#8220;node&amp;#8221; was in there somewhere. While I&amp;#8217;m certain there&amp;#8217;s a recovery program out there somewhere that can handle this sort of thing with aplomb and a six hour wait I just barreled on. Disk Utility offered one solution, format.&lt;/p&gt;
+
+&lt;p&gt;Fine, I formatted the drive. Recall what I said about the folks that backup their data? Recall, also, that I&amp;#8217;m not one of them.&lt;/p&gt;
+
+&lt;p&gt;Take your hand from agape mouth. It won&amp;#8217;t end that badly.&lt;/p&gt;
+
+&lt;h2 id='two_birds'&gt;two birds&lt;/h2&gt;
+
+&lt;p&gt;While I was reinstalling Snow Leopard to my now empty disk I broke out the Macbook. Yeah, that&amp;#8217;s right, Macbook. The Black Macbook, bitches. That&amp;#8217;s just how I roll. I had the Macbook downloading Lion, again, in a minute. This day was already well shot. I didn&amp;#8217;t see any reason to make it longer by waiting until the Mac Pro had Snow Leopard installed before re-downloading Lion.&lt;/p&gt;
+
+&lt;p&gt;Snow Leopard finished on the Mac Pro a few minutes before Lion finished downloading on the Macbook. I whiled away those ten minutes taking a shower in a feeble attempt to wash away my shame.&lt;/p&gt;
+
+&lt;h2 id='insert_irony_here'&gt;insert irony here&lt;/h2&gt;
+
+&lt;p&gt;How to get the Lion installer from the Macbook to the Mac Pro? There&amp;#8217;s lots of options. For one, I could make that install disc I failed to make the first time around. I could make a quick run to Walmart and pick up a memory stick. Or, here&amp;#8217;s where you&amp;#8217;re gonna laugh, I could copy the Lion installer to my Time Capsule.&lt;/p&gt;
+
+&lt;p&gt;I know. I have a Time Capsule. No, no, I don&amp;#8217;t have any backups on the Time Capsule. Of course, I don&amp;#8217;t. I mean, I do, now. Of course I do, now. But, then? No, not then.&lt;/p&gt;
+
+&lt;p&gt;I copied the Lion installer around and shortly thereafter I was well past the thirty-two minutes to go mark.&lt;/p&gt;
+
+&lt;h2 id='rawr'&gt;rawr&lt;/h2&gt;
+
+&lt;p&gt;Lion was now installed. On a completely bare machine. If I had you fretting earlier when I mentioned the whole no backups, format the drive thing I apologize. All was not lost. The first thing I did once Lion had launched was to fire up Safari and grab the Dropbox client.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;#8217;t, apparently, use Dropbox like everyone else. I have a basic free account with 2.5 gigs of storage. Thus far I&amp;#8217;ve used up 6.2% of that. It&amp;#8217;s all text files. I&amp;#8217;ll do the math for you. That&amp;#8217;s 158.72 megabytes. All of it basic ASCII text. When I mention I&amp;#8217;m a writer it&amp;#8217;s that 158.72 megabytes I&amp;#8217;m thinking of.&lt;/p&gt;
+
+&lt;p&gt;There were some losses though. No, not music or movies this time. Those were all safe on a separate hard disk. I did lose all the metadata associated with those media bits, however. I&amp;#8217;m talking star ratings and play counts. Things like that. iTunes now assures me I have 127 unwatched movies (I re-watched Star Trek last night) and 1909 unwatched episodes of television. Fun.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#8217;t lose things like addresses or bookmarks (not that I have any to begin with) or calendars or preferences or anything like that. Laugh all you like but I&amp;#8217;ve used every dollar of my subscription to Mobile Me over the years.&lt;/p&gt;
+
+&lt;p&gt;I did lose all of my fonts. I lost a lot of fonts by the way. A lot. Oh, and the desktop backgrounds which is why I&amp;#8217;m staring at Andromeda as I write this. Also, all my apps.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not concerned about the apps. In a way, it&amp;#8217;s a blessing. With a fresh OS I can now re-install apps as I find a need for them.&lt;/p&gt;
+
+&lt;h2 id='lesson_learned'&gt;lesson learned&lt;/h2&gt;
+
+&lt;p&gt;What have I learned from all this? A few things. I don&amp;#8217;t blame Apple for my hardships. This was as clear cut a case of PEBKAC as any I&amp;#8217;ve seen in years.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Run Disk Utility&lt;/li&gt;
+
+&lt;li&gt;Backup&lt;/li&gt;
+
+&lt;li&gt;Verify steps 1 and 2&lt;/li&gt;
+
+&lt;li&gt;Wave dead chicken&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I hope this dissection of my failure was in some schadenfreudian way entertaining. More importantly I hope it was educational. Let not my mistakes be your own undoing.&lt;/p&gt;</content>
+		</entry>
 	
 		<entry>
 			<title>Reconstruction</title>

@@ -44,7 +44,7 @@ I didn't even think on it when Disk Utility reported something about misbehaved 
 
 Fine, I formatted the drive. Recall what I said about the folks that backup their data? Recall, also, that I'm not one of them.
 
-Take your hand from agape mouth. It won't end that badly.
+Take your hand from your agape mouth. It won't end that badly.
 
 ## two birds
 While I was reinstalling Snow Leopard to my now empty disk I broke out the Macbook. Yeah, that's right, Macbook. The Black Macbook, bitches. That's just how I roll. I had the Macbook downloading Lion, again, in a minute. This day was already well shot. I didn't see any reason to make it longer by waiting until the Mac Pro had Snow Leopard installed before re-downloading Lion.
